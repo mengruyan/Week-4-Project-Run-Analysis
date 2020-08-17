@@ -14,5 +14,5 @@ I. run_analysis.R: In this R script shows the code that processes the original d
     3. Uses descriptive activity names to name the activities in the data set
     4. Appropriately labels the data set with descriptive variable names.
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-II. cookBook.md: This code book describes the variables, the data, and any step that I conducted to process and clean up the data.
+II. codeBook.md: This code book describes the variables, the data, and any step that I conducted to process and clean up the data.
 III. tidyData2.txt: The cleaned data that I extracted followed by the five steps required in the course project.
