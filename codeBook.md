@@ -45,7 +45,10 @@ From the allData from 1., create tidyData1 using select () function to subset co
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 From tidyData1 in 4., create tidyData2 using group_by() function for each subject and each activity, and then using summarize_all() function to summarize the data with the mean for each subject and each activity (list(mean = mean).
 
-tidyData2 has 180 rows and 88 colunms. All the variable names include:
+tidyData2 has 180 rows and 88 colunms. 
+
+All the variable names include:
+
 [1] "subject"                                                     
  [2] "activity"                                                    
  [3] "TimeBodyAccelerometer.Mean...X"                              
